@@ -9,13 +9,13 @@ import { getAuth } from 'firebase/auth'
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyC9p__Lys5yRCR6V61HCI8_ipjOnOVH4hw",
-  authDomain: "pantry-tracker-c21f3.firebaseapp.com",
-  projectId: "pantry-tracker-c21f3",
-  storageBucket: "pantry-tracker-c21f3.appspot.com",
-  messagingSenderId: "58401081961",
-  appId: "1:58401081961:web:57b5104eb45c8e224230f8",
-  measurementId: "G-1H1KBX57ZG"
+  apiKey: "null",
+  authDomain: "null",
+  projectId: "null",
+  storageBucket: "null",
+  messagingSenderId: "null",
+  appId: "null",
+  measurementId: "null"
 };
 
 // Initialize Firebase
